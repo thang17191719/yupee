@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Poppins&display=swap');
+ 
+
+.bg-graylight{background:  #F2F0EB}
+
+.border-bottom-pink{border-bottom: 2px solid #FF91AF;width:50%;margin:auto}
+
+
+.p22{font-size: 22px}
+.p18{font-size: 18px; color: #fff}
+.p18xanh{font-size: 18px; color: #5EB8C0;position: absolute;top: 45%;left: 17%}
+.p18hong{font-size: 18px; color: #FF91AF;position: absolute;top: 45%;left: 44%}
+.p18cam{font-size: 18px; color: #FFDEA6;position: absolute;top: 45%;left: 67%}
+.p12{font-size: 12px;}
+.bg-footer{background: #4B4342 ; color: #fff}
+.btn-pink{backface:#FF91AF }
+.bg-gray{background: rgba(222,222,222,0.9)}
+
+.border-vang{border: 4px solid #FFDEA6; border-radius:50%}
+.border-xanh{border: 2px solid #D7FE83; border-radius:50%}
+.position2{position: absolute;top: 20%;left:18% }
+.position3{position: absolute;top: 20%;left:-5% }
+.position4{position: absolute;top: 20%;left: 85% }
+.position5{position: absolute;top: -30%;z-index: -2 }
+.position6{position: absolute;top: -10%;left: 85% }
+.position7{position: absolute;top: -8% }
+.position8{position: absolute;top: 70%;left: 85% }
+.banner-full{background-image: url(  "../img/banner.png");background-size:100% 100%; 
+	min-height: 600px}
+.banner-full2{background-image: url(  "../img/Mask Group (3).png");background-size:100% 100%; 
+	min-height: 600px}
+.banner-full3{background-image: url( "../img/banner 3.png");background-size:100% 100%; 
+	min-height: 600px}
+.rounded-circle-50{border-radius: 50px}
+.w-25{width: 25%}
+
+
+
+
+
+
+
+
+
+
+
